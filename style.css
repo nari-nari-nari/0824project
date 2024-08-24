@@ -1,0 +1,23 @@
+div#wrap {
+    border: 1px solid #000;
+}
+
+nav.nav{
+   width: 99%;
+    margin: 20px auto;
+    border: 1px solid #000;
+}
+
+.nav>ul{
+    
+    border: 1px solid #f05252;
+    width: 99%;
+    display: flex;
+}
+
+.nav li{
+    text-align: right;
+    border: 1px solid #000;
+    width: 200px;
+}
+
